@@ -1,7 +1,7 @@
 from pyowm import OWM
 
 # api key from 'https://home.openweathermap.org/api_keys'
-token = 'e981ce5d4ca812a48de1d85d33a5a2f0'
+token = 'YOUR KEY'
 
 owm = OWM(token)
 mgr = owm.weather_manager()

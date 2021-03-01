@@ -12,7 +12,7 @@ def get_weather():
 	city = city_field.get()
  
 	# openweathermap.org
-	key = '7256f983dffe39f8d1a1094d221a30e0'
+	key = 'YOUR KEY'
 
 	url = 'http://api.openweathermap.org/data/2.5/weather'
 
